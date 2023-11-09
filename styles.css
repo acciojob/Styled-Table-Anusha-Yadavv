@@ -1,1 +1,20 @@
 /* your code */
+table{
+	border:1px solid black;
+	border-radius:10px;
+	width:100%;
+	padding:3px;
+	height:30vh;
+	
+}
+thead{
+	background-color:darkblue;
+	color:white;
+	font-family:"Roboto";
+
+	
+
+}
+.gray-row{
+	background-color:lightgray;
+}
